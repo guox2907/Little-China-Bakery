@@ -9,20 +9,21 @@ image: "/images/Mooncake.png"
 # Ingredients:
 
 ## White kidney bean stuffing:
--white kidney beans 180 grams
--125 grams of fine sugar
--butter, 65 grams
+
+<p>-white kidney beans 180 grams</p>
+<p>-125 grams of fine sugar</p>
+<p>-butter, 65 grams</p>
 
 ## Matcha moon cake skin:
 
--white kidney bean paste 170 grams
--1 grams of green tea powder	
--milk powder 5 grams
--10 grams of butter
--low-gluten flour 25 grams
--a little water
+<p>-white kidney bean paste 170 grams</p>
+<p>-1 grams of green tea powder	</p>
+<p>-milk powder 5 grams</p>
+<p>-10 grams of butter</p>
+<p>-low-gluten flour 25 grams</p>
+<p>-a little water</p>
 
 ## Matcha red bean stuffing: 
--white kidney bean paste 240 grams
--2.5 grams of green tea powder
--honey red beans 60 grams
+<p>-white kidney bean paste 240 grams</p>
+<p>-2.5 grams of green tea powder</p>
+<p>-honey red beans 60 grams</p>
