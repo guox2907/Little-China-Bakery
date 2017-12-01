@@ -3,26 +3,23 @@ layout: post
 title:  "Matcha Red Bean Moon Cake"
 date:   2017-11-29
 excerpt: "Matcha and Red Bean! Yummy!"
-image: "/images/pic02.jpg"
+image: "/images/Mooncake.png"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+# Ingredients:
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
-
-Open a terminal window or a command line and ```cd``` to that location.
-
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
-
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the front matter of each site. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
-### Formspring integration
-The contact form below each page on the footer actually collects information! Just change your email address in the ```_config.yml``` file!
+### White kidney bean stuffing:
+    white kidney beans 180 grams
+    125 grams of fine sugar
+    butter, 65 grams
+### Matcha moon cake skin: 
+    white kidney bean paste 170 grams 
+    1 grams of green tea powder	
+    milk powder 5 grams
+    10 grams of butter
+    low-gluten flour 25 grams
+    a little water
+### Matcha red bean stuffing: 
+    white kidney bean paste 240 grams
+    2.5 grams of green tea powder
+    honey red beans 60 grams
