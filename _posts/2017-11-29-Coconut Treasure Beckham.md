@@ -28,7 +28,7 @@ image: "https://wx1.sinaimg.cn/large/4a5089ffgy1fidrgjazpzj20jg0at0xd.jpg"
 
 ## Cooking Steps
   <ol>
-      <p><img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fidrdk71hvj20jg0audj0.jpg" alt="step 1"/></p>
+      <p><img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fidrgjazpzj20jg0at0xd.jpg" alt="step 1"/></p>
       <p><li>First we will make the cake batter. Separate the egg yolks and egg whites. Add the egg yolks, milk, and vegetable oil (or corn oil) to a bowl. Whip until soft peaks form. </li><p/>
       <p><img src="https://wx2.sinaimg.cn/large/4a5089ffgy1fidrdo5ae9j20jg0atacj.jpg" alt="step 2"/></p>
       <p><li>Sieved the low gluten flour into the mixture.</li><p/>
