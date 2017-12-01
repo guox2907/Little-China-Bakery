@@ -3151,8 +3151,8 @@
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #ffffff;
-			color: #ffffff !important;
+			box-shadow: inset 0 0 0 2px #1e252d;
+			color: #1e252d !important;
 		}
 
 			#intro input[type="submit"]:hover,
@@ -3169,7 +3169,7 @@
 			#intro input[type="button"].special,
 			#intro button.special,
 			#intro .button.special {
-				background-color: #ffffff;
+				background-color: #1e252d;
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3454,7 +3454,7 @@
 		}
 
 		#nav a {
-			color: #ffffff;
+			color: #1e252d;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3464,11 +3464,11 @@
 			}
 
 		#nav strong, #nav b {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#nav blockquote {
@@ -3481,7 +3481,7 @@
 		}
 
 		#nav hr {
-			border-bottom-color: #ffffff;
+			border-bottom-color: #1e252d;
 		}
 
 		#nav ul.links {
