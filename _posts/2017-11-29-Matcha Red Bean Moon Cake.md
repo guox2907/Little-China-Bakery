@@ -35,7 +35,7 @@ image: "https://wx2.sinaimg.cn/large/4a5089ffgy1fjo0ezal94j20jg0atn0p.jpg"
       <li>honey red beans 60 grams</li>
 </ul>
 
-# Cooking Steps
+## Cooking Steps
 <ol>
       <p><img src="https://wx4.sinaimg.cn/large/4a5089ffgy1fjo0fzw94uj20jg0attcn.jpg" alt="step 1"/></p>
       <p><li>The first step it to make the white Kidney bean stuffing. Soak the white kidney beans in a pot overnight with             enough water to cover the beans. For those of you in a rush, boil the beans on low heat for 25-30 minutes then let cool.</li><p/>
