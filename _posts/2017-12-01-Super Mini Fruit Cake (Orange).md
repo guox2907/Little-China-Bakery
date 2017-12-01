@@ -22,7 +22,7 @@ image: "https://wx1.sinaimg.cn/large/4a5089ffly1flletryu6uj20p00dxgr6.jpg"
   <ol>
       <p><img src="https://wx1.sinaimg.cn/large/4a5089ffly1flleshwv6cj20jg0attb9.jpg" alt="step 1"/></p>
       <p><li>To make this cake, we can use many different types of dried fruits (dried cranberries, raisins, etc.). In this recipe, we will use candied orange peel.</li><p/>
-      <p><img src="https://wx1.sinaimg.cn/large/4a5089ffly1fllesm61zfj20jg0at76g.jpg" alt="step 2"/></p>
+      <p><img src="https://wx1.sinaimg.cn/large/4a5089ffly1fllesm61zfj20jg0at76g.jpg" alt="tep 2"/></p>
       <p><li>Place a whole egg into the cup of Westinghouse machine, then add sugar, candied orange peel, and milk.</li><p/>
       <p><img src="https://wx4.sinaimg.cn/large/4a5089ffly1flless0bw9j20jg0attai.jpg" alt="step 3"/></p>
       <p><li>Select the program of fruits and vegetables and set time to 2 minutes.</li><p/>
