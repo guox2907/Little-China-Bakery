@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: Little China Bakery - History
 description: We are introducing Chinese history that related to traditional Chinese Cuisine.
 sitemap:
     priority: 0.1
@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 <header class="major">
-<h1>History</h1><br/>
+<h1>History</h1>
 </header>
 ## Moon Cake
 
