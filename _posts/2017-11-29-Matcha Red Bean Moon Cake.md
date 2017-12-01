@@ -57,9 +57,13 @@ image: "https://wx2.sinaimg.cn/large/4a5089ffgy1fjo0ezal94j20jg0atn0p.jpg"
       <p><img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fjo0cppq85j20jg0auacr.jpg" alt="step 5"/></p>
       </div>
       <p><li>Here you can see the consistency is changing.</li><p/>
+      <div class = "image main">
       <p><img src="https://wx3.sinaimg.cn/large/4a5089ffgy1fjo0ctpiwij20jg0atacv.jpg" alt="step 6"/></p>
+      </div>
       <p><li>Once the stuffing has been reduced to a soft but thick paste like the image above, you can remove from the heat onto a plate to cool.</li>
+      <div class = "image main">
       <p><img src="https://wx3.sinaimg.cn/large/4a5089ffgy1fjo0cxrmuyj20jg0atq5s.jpg" alt="step 7"/></p>
+      </div>
       <p><li>To cool the stuffing faster, place as shown above. Do not use the white bean paste until it has been completely cooled.</li><p/>
       <div class = "image main">
       <p><img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fjo0deuujfj20jg0atn08.jpg" alt="step 8"/></p>
