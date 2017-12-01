@@ -38,7 +38,7 @@ image: "https://wx2.sinaimg.cn/large/4a5089ffgy1fjo0bwa1cwj20jg0pxqdp.jpg"
 # Cooking Steps
 <ol>
       <img src="https://wx4.sinaimg.cn/large/4a5089ffgy1fjo0fzw94uj20jg0attcn.jpg" alt="step 1"/>
-      <li>The first step it to make the white Kidney bean stuffing. Soak the white kidney beans in a pot overnight with             enough water to cover the beans. For those of you in a rush, boil the beans on low heat for 25-30 minutes then let cool.      </li>
+      <p><li>The first step it to make the white Kidney bean stuffing. Soak the white kidney beans in a pot overnight with             enough water to cover the beans. For those of you in a rush, boil the beans on low heat for 25-30 minutes then let cool.      </li></p>
       <img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fjo0g4yzd7j20jg0atacr.jpg" alt="step 2"/>
       <li>Next we will peel the skin off the beans. Transfer the beans to a blender, add the granulated sugar, and add two to three table spoons of water. Blend until smooth (2-3 minutes) then pour into a pan to start the frying process. </li>
       <img src="https://wx1.sinaimg.cn/large/4a5089ffgy1fjo0cj7mjej20jg0atmzl.jpg" alt="step 3"/>
