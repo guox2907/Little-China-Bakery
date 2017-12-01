@@ -3055,7 +3055,7 @@
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #f2e394;
+			background: #ff0000;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3111,11 +3111,11 @@
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#intro a {
-			color: #ffffff;
+			color: #1e252d;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3125,11 +3125,11 @@
 			}
 
 		#intro strong, #intro b {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#intro blockquote {
