@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tender Beef Wrap"
+title:  "Tender Spicy Beef Wrap"
 date:   2017-12-01
 excerpt: "Perfect for a meal on the go!"
 image: "https://wx3.sinaimg.cn/large/4a5089ffgy1fkk5nyntewj20jg0attdu.jpg"
