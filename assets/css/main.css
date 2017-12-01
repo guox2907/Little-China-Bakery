@@ -4184,9 +4184,9 @@
 		}
 
 	#copyright {
-		color: ##1e252d;
+		color: #1e252d;
 		position: relative;
-		color: rgba(255, 255, 255, 1);
+		color: rgba(30, 37, 45, 1);
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4202,12 +4202,12 @@
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: #ffffff;
+			color: #1e252d;
 		}
 
 		#copyright a {
-			color: ##ffffff;
-			border-bottom-color: rgba(255, 255, 255, 1);
+			color: #1e252d;
+			border-bottom-color: rgba(30, 37, 45, 1);
 		}
 
 			#copyright a:hover {
@@ -4216,24 +4216,24 @@
 			}
 
 		#copyright strong, #copyright b {
-			color: #000000;
+			color: #1e252d;
 		}
 
 		#copyright h1, #copyright h2, #copyright h3, #copyright h4, #copyright h5, #copyright h6 {
-			color: #000000;
+			color: #1e252d;
 		}
 
 		#copyright blockquote {
-			border-left-color: #000000;
+			border-left-color: #1e252d;
 		}
 
 		#copyright code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #000000;
+			border-color: #1e252d;
 		}
 
 		#copyright hr {
-			border-bottom-color: #000000;
+			border-bottom-color: #1e252d;
 		}
 
 		#copyright a {
