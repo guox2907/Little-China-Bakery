@@ -18,7 +18,7 @@ image: "https://wx1.sinaimg.cn/large/4a5089ffly1flletryu6uj20p00dxgr6.jpg"
     <li>candied orange peel 30 grams.</li>
 </ul>
 
-# Cooking Steps
+## Cooking Steps
   <ol>
       <p><img src="https://wx1.sinaimg.cn/large/4a5089ffly1flleshwv6cj20jg0attb9.jpg" alt="step 1"/></p>
       <p><li>To make this cake, we can use many different types of dried fruits (dried cranberries, raisins, etc.). In this recipe, we will use candied orange peel.</li><p/>
