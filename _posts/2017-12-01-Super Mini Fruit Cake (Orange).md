@@ -40,4 +40,3 @@ image: "https://wx1.sinaimg.cn/large/4a5089ffly1flletryu6uj20p00dxgr6.jpg"
       <p><li>Pour batter into the cupcake mold</li><p/>
       <p><img src="https://wx3.sinaimg.cn/large/4a5089ffly1flletksktij20jg0atdit.jpg" alt="step 10"/></p>
       <p><li>Place the mold into the preheated oven at 190 ℃. Bake for 12 minutes until the cake completely expanded and the surface is golden.</li><p/>
-  </ol>
