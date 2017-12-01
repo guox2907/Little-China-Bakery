@@ -3454,7 +3454,7 @@
 		}
 
 		#nav a {
-			color: #1e252d;
+			color: #ffffff;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3464,11 +3464,11 @@
 			}
 
 		#nav strong, #nav b {
-			color: #1e252d;
+			color: #ffffff;
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: #1e252d;
+			color: #ffffff;
 		}
 
 		#nav blockquote {
@@ -3481,7 +3481,7 @@
 		}
 
 		#nav hr {
-			border-bottom-color: #1e252d;
+			border-bottom-color: #ffffff;
 		}
 
 		#nav ul.links {
