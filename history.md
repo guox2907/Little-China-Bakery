@@ -7,7 +7,9 @@ sitemap:
     lastmod: 2017-11-30
     changefreq: weekly
 ---
-# History<br/>
+<header class="major">
+<h1>History</h1><br/>
+</header>
 ## Moon Cake
 
 <span class="image left"><img src="{{ "/images/mooncakef.jpg" | absolute_url }}" alt="moon cake festival" /></span>
