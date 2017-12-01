@@ -4202,11 +4202,11 @@
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: #1e252d;
+			color: #000000;
 		}
 
 		#copyright a {
-			color: #1e252d;
+			color: #000000;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -4216,24 +4216,24 @@
 			}
 
 		#copyright strong, #copyright b {
-			color: #1e252d;
+			color: #000000;
 		}
 
 		#copyright h1, #copyright h2, #copyright h3, #copyright h4, #copyright h5, #copyright h6 {
-			color: #1e252d;
+			color: #000000;
 		}
 
 		#copyright blockquote {
-			border-left-color: #ffffff;
+			border-left-color: #000000;
 		}
 
 		#copyright code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: #ffffff;
+			border-color: #000000;
 		}
 
 		#copyright hr {
-			border-bottom-color: #1e252d;
+			border-bottom-color: #000000;
 		}
 
 		#copyright a {
