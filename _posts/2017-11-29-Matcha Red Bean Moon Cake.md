@@ -79,4 +79,4 @@ image: "https://wx3.sinaimg.cn/large/4a5089ffgy1fjo0f4e869j20jg0atgqn.jpg"
       <p><li>Placed the wrapped dough into the moon cake mold, you can dust the mold in a light poder of flour if you are worried about sticking.</li><p/>
       <p><img src="https://wx2.sinaimg.cn/large/4a5089ffgy1fjo0ezal94j20jg0atn0p.jpg" alt="step 21"/></p>
       <p><li>Place the formed moon cakes on a pan line with parchment paper. Place in a pre-heated 170 ℃ oven and bake for about 12 minutes but ensure that the outside does not toast. You can serve fresh or be stored overnight.</li><p/>
-    </ol>
+</ol>
