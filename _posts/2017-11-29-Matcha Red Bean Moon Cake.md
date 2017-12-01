@@ -3,7 +3,7 @@ layout: post
 title:  "Matcha Red Bean Moon Cake"
 date:   2017-11-29
 excerpt: "Matcha and Red Bean! Yummy!"
-image: "https://wx2.sinaimg.cn/large/4a5089ffgy1fjo0bwa1cwj20jg0pxqdp.jpg"
+image: "https://wx3.sinaimg.cn/large/4a5089ffgy1fjo0f4e869j20jg0atgqn.jpg"
 ---
 
 ## Ingredients:
