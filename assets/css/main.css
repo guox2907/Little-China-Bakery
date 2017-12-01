@@ -4186,7 +4186,7 @@
 	#copyright {
 		color: ##1e252d;
 		position: relative;
-		color: rgba(255, 255, 255, 1);
+		color: rgba(255, 255, 255, 0.1);
 		cursor: default;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.8rem;
@@ -4202,12 +4202,12 @@
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: ##1e252d;
+			color: #ffffff;
 		}
 
 		#copyright a {
-			color: ##1e252d;
-			border-bottom-color: rgba(255, 255, 255, 0.5);
+			color: ##ffffff;
+			border-bottom-color: rgba(255, 255, 255, 0.1);
 		}
 
 			#copyright a:hover {
