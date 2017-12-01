@@ -2,7 +2,7 @@
 layout: post
 title:  "Super Mini Fruit Cake (Orange)"
 date:   2017-12-01
-excerpt: "Cute and easy to eat. Perfect with tea!"
+excerpt: "Cute and easy to eat, perfect with tea!"
 image: "https://wx1.sinaimg.cn/large/4a5089ffly1flletryu6uj20p00dxgr6.jpg"
 ---
 
