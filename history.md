@@ -10,21 +10,11 @@ sitemap:
 <header class="major">
 <h1>History</h1>
 </header>
-## Moon Cake
+
+## History of Moon Cakes
 
 <span class="image left"><img src="{{ "/images/mooncakef.jpg" | absolute_url }}" alt="moon cake festival" /></span>
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+The Ancient Chinese people worshipped the harvest moon in Autumn. They believe the practice would bring good harvests the following year. The practice was originally popular only among the ruling class. However, in the Tang dynasty, the practice of celebrating the moon also became popular among the common people and has been celebrated ever since.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
-
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+The tradition of eating Mooncakes began in the Yuan Dynasty (1279-1368). The Mooncakes are named after the Moon Goddess, Chang’e, who is said to make this kind of cake. They represent prosperity and reunion for the whole family, one cake is commonly shared several people in a family. Now a day’s people gift mooncakes to family and friends to express love and good wishes. The price to buy a mooncake can vary greatly from less than a dollar to more than $40 each. The cost is dependent on flavor and packaging, certain mooncakes can even be purchased as a luxury gift. The most expensive mooncake costs $1200 Canadian dollars. 
