@@ -11,20 +11,17 @@ image: "http://wx1.sinaimg.cn/large/4a5089ffly1fexr8tlev5j20go099tb6.jpg"
 
 <ul>
 
-    <li>fresh prawn 300 grams</li>
-    <li>2 grams of salt</li>
-    <li>sugar 3 grams</li>
-    <li>1/4 teaspoon black pepper</li>
-    <li>cooking wine 5 grams</li>
-    <li>1 egg.
+<li>fresh prawn 300 grams</li>
+<li>2 grams of salt</li>
+<li>sugar 3 grams</li>
+<li>1/4 teaspoon black pepper</li>
+<li>cooking wine 5 grams</li>
+<li>1 egg.>/li>
 
 </ul>
 
-<div class = "image main">
-            <p><img src="https://wx4.sinaimg.cn/large/4a5089ffgy1fjo0fzw94uj20jg0attcn.jpg" alt="step 1"/></p>
-      </div>
-
 ## Cooking Steps
+
   <ol>
   <div class = "image main">
       <p><img src="http://wx3.sinaimg.cn/large/4a5089ffly1fexr70uu3yj20go0990w3.jpg" alt="step 1"/></p>
