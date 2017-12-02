@@ -16,7 +16,7 @@ image: "http://wx1.sinaimg.cn/large/4a5089ffly1fexr8tlev5j20go099tb6.jpg"
 <li>sugar 3 grams</li>
 <li>1/4 teaspoon black pepper</li>
 <li>cooking wine 5 grams</li>
-<li>1 egg.>/li>
+<li>1 egg</li>
 
 </ul>
 
