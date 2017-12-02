@@ -1,9 +1,9 @@
 # Site
 title:              Little China Bakery
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+bio:                by Jinyan Guo and Jenny Wu
 description:        "Introducing traditional Chinese Cuisine and recipes to a western audience"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /recipes
 url: "https://guox2907.github.io/Little-China-Bakery/" # the base hostname & protocol for your site
 
 defaults:
@@ -11,12 +11,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/recipes/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /recipes/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -42,7 +42,6 @@ github:             default
 
 # personal
 location:           Waterloo, ON
-phone:              519-884-1970
 email:              jguo@wlu.ca
 
 # Gems
@@ -54,7 +53,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/recipes/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
