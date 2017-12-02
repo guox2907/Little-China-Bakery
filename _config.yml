@@ -1,6 +1,6 @@
 # Site
 title:              Little China Bakery
-bio:                "by Jinyan Guo and Jenny Wu"
+bio:                'by Jinyan Guo and Jenny Wu'
 description:        "Introducing traditional Chinese Cuisine and recipes to a western audience"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /recipes
